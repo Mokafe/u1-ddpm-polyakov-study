@@ -5,7 +5,7 @@ Extract and compare \( F(r)/T \) from Polyakov loop correlators.
 
 ## Main files
 - `notebooks/phase-3-f-r-t-mc.ipynb`
-- `reports/Phase3_実験ノート_図入り整合版.docx`
+- `reports/Phase3_実験ノート_図入り整合版.pdf`
 
 ## Focus
 - \( F(r)/T \) curves
